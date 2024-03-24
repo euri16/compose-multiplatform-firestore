@@ -1,9 +1,9 @@
-package dev.euryperez.loginsample.signin
+package dev.euryperez.cmpfirestore.signin
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Modifier
-import dev.euryperez.loginsample.signin.models.AuthResponse
+import dev.euryperez.cmpfirestore.signin.models.AuthResponse
 import dev.gitlive.firebase.Firebase
 import dev.gitlive.firebase.auth.GoogleAuthProvider
 import dev.gitlive.firebase.auth.auth

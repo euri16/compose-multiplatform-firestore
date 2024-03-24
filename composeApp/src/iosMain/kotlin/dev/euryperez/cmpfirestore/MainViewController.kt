@@ -1,4 +1,4 @@
-package dev.euryperez.loginsample
+package dev.euryperez.cmpfirestore
 
 import androidx.compose.ui.window.ComposeUIViewController
 

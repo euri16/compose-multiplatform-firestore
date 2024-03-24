@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "dev.euryperez.loginsample.android"
+    namespace = "dev.euryperez.cmpfirestore.android"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "dev.euryperez.loginsample.android"
+        applicationId = "dev.euryperez.cmpfirestore.android"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

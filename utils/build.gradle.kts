@@ -40,7 +40,7 @@ kotlin {
 }
 
 android {
-    namespace = "dev.euryperez.loginsample.utils"
+    namespace = "dev.euryperez.cmpfirestore.utils"
     compileSdk = 34
     defaultConfig {
         minSdk = 26

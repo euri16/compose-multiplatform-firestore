@@ -1,4 +1,4 @@
-package dev.euryperez.loginsample
+package dev.euryperez.cmpfirestore
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -18,10 +18,10 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import dev.euryperez.loginsample.utils.compositionlocals.LocalResources
-import dev.euryperez.loginsample.signin.GoogleButton
-import dev.euryperez.loginsample.signin.models.AuthResponse
-import dev.euryperez.loginsample.utils.ResourcesImpl
+import dev.euryperez.cmpfirestore.utils.compositionlocals.LocalResources
+import dev.euryperez.cmpfirestore.signin.GoogleButton
+import dev.euryperez.cmpfirestore.signin.models.AuthResponse
+import dev.euryperez.cmpfirestore.utils.ResourcesImpl
 import org.jetbrains.compose.ui.tooling.preview.Preview
 
 @Composable

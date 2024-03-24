@@ -1,4 +1,4 @@
-package dev.euryperez.loginsample.signin.models
+package dev.euryperez.cmpfirestore.signin.models
 
 sealed interface AuthResponse {
     data class Success(val account: GoogleAccount) : AuthResponse

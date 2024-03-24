@@ -1,4 +1,4 @@
-package dev.euryperez.loginsample.signin
+package dev.euryperez.cmpfirestore.signin
 
 import android.app.Activity
 import android.util.Log
@@ -11,9 +11,9 @@ import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions
 import com.google.android.gms.common.api.ApiException
-import dev.euryperez.loginsample.signin.models.AuthResponse
-import dev.euryperez.loginsample.signin.models.GoogleAccount
-import dev.euryperez.loginsample.signin.models.Profile
+import dev.euryperez.cmpfirestore.signin.models.AuthResponse
+import dev.euryperez.cmpfirestore.signin.models.GoogleAccount
+import dev.euryperez.cmpfirestore.signin.models.Profile
 
 @Composable
 internal actual fun GoogleLoginButton(

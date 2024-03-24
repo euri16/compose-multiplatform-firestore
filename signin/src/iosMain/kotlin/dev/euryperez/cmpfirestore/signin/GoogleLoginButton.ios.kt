@@ -1,13 +1,13 @@
-package dev.euryperez.loginsample.signin
+package dev.euryperez.cmpfirestore.signin
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.interop.LocalUIViewController
 import cocoapods.GoogleSignIn.GIDSignIn
 import cocoapods.GoogleSignIn.GIDSignInResult
-import dev.euryperez.loginsample.signin.models.AuthResponse
-import dev.euryperez.loginsample.signin.models.GoogleAccount
-import dev.euryperez.loginsample.signin.models.Profile
+import dev.euryperez.cmpfirestore.signin.models.AuthResponse
+import dev.euryperez.cmpfirestore.signin.models.GoogleAccount
+import dev.euryperez.cmpfirestore.signin.models.Profile
 import kotlinx.cinterop.ExperimentalForeignApi
 import platform.Foundation.NSError
 import platform.UIKit.UIViewController

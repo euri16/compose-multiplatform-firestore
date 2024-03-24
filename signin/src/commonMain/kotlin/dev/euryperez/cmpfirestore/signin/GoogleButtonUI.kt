@@ -1,4 +1,4 @@
-package dev.euryperez.loginsample.signin
+package dev.euryperez.cmpfirestore.signin
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Image
@@ -14,7 +14,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import dev.euryperez.loginsample.utils.compositionlocals.LocalResources
+import dev.euryperez.cmpfirestore.utils.compositionlocals.LocalResources
 import org.jetbrains.compose.resources.ExperimentalResourceApi
 import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.ui.tooling.preview.Preview

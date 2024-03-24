@@ -1,8 +1,7 @@
-package dev.euryperez.loginsample.utils
+package dev.euryperez.cmpfirestore.utils
 
 import cmp_google_login.composeapp.generated.resources.Res
 import cmp_google_login.composeapp.generated.resources.ic_google
-import org.jetbrains.compose.resources.DrawableResource
 import org.jetbrains.compose.resources.ExperimentalResourceApi
 
 class ResourcesImpl : Resources {

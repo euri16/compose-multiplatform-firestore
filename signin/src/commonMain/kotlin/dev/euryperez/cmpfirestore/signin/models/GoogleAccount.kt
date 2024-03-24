@@ -1,4 +1,4 @@
-package dev.euryperez.loginsample.signin.models
+package dev.euryperez.cmpfirestore.signin.models
 
 data class GoogleAccount(
     val idToken: String,

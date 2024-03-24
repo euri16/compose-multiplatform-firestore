@@ -1,4 +1,4 @@
-package dev.euryperez.loginsample.android
+package dev.euryperez.cmpfirestore.android
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape

@@ -1,6 +1,6 @@
 # Compose Multiplatform Firebase Google Sign In
 
-Welcome to the Compose Multiplatform Firebase Google Sign In repository! This repository showcases a Compose multiplatform project that initializes Firebase and implements Google Sign In on both Android and iOS platforms. 
+Welcome to the Compose Multiplatform Firebase Firestore repository! This repository showcases a Compose multiplatform project that initializes Firebase and implements Google Sign In on both Android and iOS platforms. 
 
 This repository serves as a demonstration of how to modularize a Compose multiplatform project, making it easier to manage and maintain.
 
